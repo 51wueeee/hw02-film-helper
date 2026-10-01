@@ -1,0 +1,6 @@
+{
+  "name": "週末影展小幫手",
+  "description": "網頁課程作業專用的週末小型足球影展排程與片單收藏工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
